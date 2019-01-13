@@ -11,11 +11,8 @@
         </value>
     </Operation>
     
-    <Operation Class="PatchOperationReplace">
-        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/designateHaulable</xpath>
-        <value>
-            <alwaysHaulable>true</alwaysHaulable>
-        </value>
+    <Operation Class="PatchOperationRemove">
+        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/passability</xpath>
     </Operation>
 
     <!-- === Code for 'Stackable Chunks!' by EarthyTurtle. === -->
