@@ -6,8 +6,14 @@
     <Operation Class="PatchOperationReplace">
         <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/stackLimit</xpath>
         <value>
-            <stackLimit>25</stackLimit>
+            <stackLimit>10</stackLimit>
             <drawGUIOverlay>true</drawGUIOverlay>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/thingClass</xpath>
+        <value>
+            <thingClass>StackableChunks.Chunk</thingClass>
         </value>
     </Operation>
     

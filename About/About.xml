@@ -2,7 +2,9 @@
 <ModMetaData>
     <name>Stackable Chunks [1.0]</name>
     <author>EarthyTurtle</author>
-    <targetVersion>1.0.2096</targetVersion>
+    <supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
     <description>For Rimworld Version [1.0] | Version 1.0.2
         
 A small, simple mod that makes chunks stackable instead of singular.
