@@ -16,7 +16,9 @@
             <thingClass>StackableChunks.Chunk</thingClass>
         </value>
     </Operation>
-    
+    <Operation Class="PatchOperationRemove">
+        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/saveCompressible</xpath>
+    </Operation>
     <Operation Class="PatchOperationRemove">
         <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/passability</xpath>
     </Operation>
