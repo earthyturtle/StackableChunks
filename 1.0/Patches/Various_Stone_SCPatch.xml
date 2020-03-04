@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <!-- ========== Patch - make chunks stackable ========== -->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+        <li Class="PatchOperationReplace">
+            <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/stackLimit</xpath>
+            <value>
+                <stackLimit>5</stackLimit>
+                <drawGUIOverlay>true</drawGUIOverlay>
+            </value>
+        </li>
+      <li Class="PatchOperationRemove">
+        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/passability</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>/Defs/ThingDef[@Name = "ChunkBase"]/saveCompressible</xpath>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

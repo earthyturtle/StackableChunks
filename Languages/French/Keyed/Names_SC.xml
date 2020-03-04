@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StoneStackSize_Title>Taille de la pile des blocs:</StoneStackSize_Title>
+	<StoneStackSize_Desc>"Détermine la taille maximale d’une pile de blocs de pierre. Compris entre 1 and 400.
+"</StoneStackSize_Desc>
+  <SlagStackSize_Title>Taille de la pile des scories:</SlagStackSize_Title>
+  <SlagStackSize_Desc>"Détermine la taille maximale d’une pile de blocs de pierre. Compris entre 1 and 400.
+"</SlagStackSize_Desc>
+</LanguageData>

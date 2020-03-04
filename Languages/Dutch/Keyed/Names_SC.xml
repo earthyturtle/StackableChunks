@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StoneStackSize_Title>Stenen stapel grote:</StoneStackSize_Title>
+	<StoneStackSize_Desc>Bepaald het maximale aantal van een stapel stenen. Deze kan tussen de 1-400 zijn.</StoneStackSize_Desc>
+  <SlagStackSize_Title>Metaalslak stapel grote:</SlagStackSize_Title>
+  <SlagStackSize_Desc>Bepaald het maximale aantal van een stapel metaalslakken. Deze kan tussen de 1-400 zijn.</SlagStackSize_Desc>
+</LanguageData>
