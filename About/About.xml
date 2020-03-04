@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Stackable Chunks</name>
+    <author>EarthyTurtle, zhrocks</author>
+   <url>https://github.com/earthyturtle/StackableChunks</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>earthyturtle.stackablechunks</packageId>
+    <description>
+Mod Version [1.2.6]
+Supports Rimworld Versions 1.0, 1.1 and Royalty
+
+A small, simple mod that makes chunks stackable instead of singular.
+
+'Stackable Chunks' is under the creative commons license. Cite, learn and use aspects from this mod, credit optional but appreciated ;). Please do not outright copy this mod and/or re-upload without my consent.
+Credits to:
+- zhrocks for creating the ongoing 1.1 support!
+    </description>
+	<modDependencies>
+    <li>
+      <packageId>UnlimitedHugs.HugsLib</packageId>
+      <displayName>HugsLib</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=818773962</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+    <li>UnlimitedHugs.HugsLib</li>
+  </loadAfter>
+</ModMetaData>

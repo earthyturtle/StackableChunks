@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ========== Language - Settings Menu ========== -->
+  <StoneStackSize_Title>石のスタック上限:</StoneStackSize_Title>
+  <StoneStackSize_Desc>石塊の最大スタック量を変更します。1から400までの範囲で指定できます。</StoneStackSize_Desc>
+  <SlagStackSize_Title>鉄くずのスタック上限:</SlagStackSize_Title>
+  <SlagStackSize_Desc>鉄くずの塊の最大スタック量を変更します。1から400までの範囲で指定できます。</SlagStackSize_Desc>
+</LanguageData>
