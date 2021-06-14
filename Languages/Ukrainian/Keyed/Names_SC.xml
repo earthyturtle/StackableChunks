@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <StoneStackSize_Title>Stone stack size:</StoneStackSize_Title>
-	<StoneStackSize_Desc>Determines the maximum size of a stone chunk stack. Can be between 1-400.</StoneStackSize_Desc>
-  <SlagStackSize_Title>Slag stack size:</SlagStackSize_Title>
-  <SlagStackSize_Desc>Determines the maximum size of a slag stack. Can be between 1-400.</SlagStackSize_Desc>
+  <StoneStackSize_Title>Розмір стопки каміння:</StoneStackSize_Title>
+	<StoneStackSize_Desc>Визначає максимальний розмір стопки каміння. Значення може бути між 1-400.</StoneStackSize_Desc>
+  <SlagStackSize_Title>Розмір стопки брил:</SlagStackSize_Title>
+  <SlagStackSize_Desc>Визначає максимальний розмір стопки брил. Значення може бути між 1-400.</SlagStackSize_Desc>
 </LanguageData>
