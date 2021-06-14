@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <StoneStackSize_Title>Stone stack size:</StoneStackSize_Title>
-	<StoneStackSize_Desc>Determines the maximum size of a stone chunk stack. Can be between 1-400.</StoneStackSize_Desc>
-  <SlagStackSize_Title>Slag stack size:</SlagStackSize_Title>
-  <SlagStackSize_Desc>Determines the maximum size of a slag stack. Can be between 1-400.</SlagStackSize_Desc>
+  <StoneStackSize_Title>Размер стопки блока камней:</StoneStackSize_Title>
+	<StoneStackSize_Desc>Определяет максимальный размер стопки блоков камней. Значение может быть между 1-400.</StoneStackSize_Desc>
+  <SlagStackSize_Title>Размер стопки обломка:</SlagStackSize_Title>
+  <SlagStackSize_Desc>Определяет максимальный размер стопки обломков. Значение может быть между 1-400.</SlagStackSize_Desc>
 </LanguageData>
